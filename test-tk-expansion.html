@@ -1,9 +1,10 @@
 <html>
   <head>
-    <script
+    <!-- <script
       src="http://www.verovio.org/javascript/latest/verovio-toolkit-wasm.js"
       defer
-    ></script>
+    ></script> -->
+    <script src="./verovio-toolkit-hum.js" defer></script>
     <script>
       let meiName =
         "https://raw.githubusercontent.com/wergo/test-encodings/main/Repetition_Study.mei";
@@ -11,7 +12,7 @@
       let expansion;
       expansion = "expansion-minimal";
       //   expansion = "expansion-default";
-      expansion = "expansion-repeat";
+    //   expansion = "expansion-repeat";
 
       document.addEventListener("DOMContentLoaded", (event) => {
         verovio.module.onRuntimeInitialized = async (_) => {
@@ -38,6 +39,9 @@
 
               tk.loadData(meiXML);
               console.log("Data loaded.");
+
+              let expansionMap = tk.renderToExpansionMap();
+              console.log("ExpansionMap: ", expansionMap);
 
               let timemap = tk.renderToTimemap();
               console.log("Timemap: ", timemap);
