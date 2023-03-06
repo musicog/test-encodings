@@ -89,7 +89,7 @@
                      <measure xml:id="m2xlnjc" right="rptend" n="5">
                         <staff xml:id="s19tw80h" n="1">
                            <layer xml:id="lbmq3cz" n="1">
-                              <note xml:id="n1vrkc62" dur.ppq="2" dur="2" oct="4" pname="a" stem.dir="up" />
+                              <note xml:id="n1vrkc62" dur.ppq="2" dur="2" oct="4" pname="c" stem.dir="up" />
                               <rest xml:id="r1d6lbpc" dur.ppq="1" dur="4" />
                            </layer>
                         </staff>
