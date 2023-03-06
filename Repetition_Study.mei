@@ -20,7 +20,7 @@
                <name xml:id="name-11dqb0x">Verovio</name>
                <p xml:id="p-ycqigg">Transcoded from MusicXML</p>
             </application>
-            <application xml:id="ar5xxlx1" startdate="2023-03-06T14:50:17" version="0.8.6" enddate="2023-03-06T15:29:04">
+            <application xml:id="ar5xxlx1" startdate="2023-03-06T14:50:17" version="0.8.6" enddate="2023-03-06T15:30:34">
                <name xml:id="n3raznu1">mei-friend</name>
                <p xml:id="p9hzx1n1">First edit by mei-friend 0.8.6, 3 Mar 2023.</p>
             </application>
@@ -100,8 +100,8 @@
                      <measure xml:id="m1sufr06" right="end" n="6">
                         <staff xml:id="s1iw9zf4" n="1">
                            <layer xml:id="l1ciko0e" n="1">
-                              <note xml:id="nd6fmt7" dur.ppq="2" dur="2" oct="5" pname="d" stem.dir="down" />
-                              <rest xml:id="r1x5f7f" dur.ppq="1" dur="4" />
+                              <note xml:id="nd6fmt7" dur.ppq="2" dur="2" oct="4" pname="a" stem.dir="down"/>
+                              <rest xml:id="r1x5f7f" dur.ppq="1" dur="4" oloc="3" ploc="g"/>
                            </layer>
                         </staff>
                      </measure>
