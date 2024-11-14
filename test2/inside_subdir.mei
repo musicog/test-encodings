@@ -20,7 +20,7 @@
                <name xml:id="name-11dqb0x">Verovio</name>
                <p xml:id="p-ycqigg">Transcoded from MusicXML</p>
             </application>
-            <application xml:id="ar5xxlx1" startdate="2023-03-06T14:50:17" version="0.8.6" enddate="2023-03-09T15:21:01">
+            <application xml:id="ar5xxlx1" enddate="2024-11-14T14:21:33" startdate="2023-03-06T14:50:17" version="1.0.16">
                <name xml:id="n3raznu1">mei-friend</name>
                <p xml:id="p9hzx1n1">First edit by mei-friend 0.8.6, 3 Mar 2023.</p>
             </application>
@@ -50,7 +50,9 @@
                      <staff xml:id="s19vz3pf" n="1">
                         <layer xml:id="ljc87zu" n="1">
                            <note xml:id="nhh1hp9" dur.ppq="1" dur="4" oct="4" pname="g" stem.dir="up"/>
-                           <note xml:id="n1vcwqkb" dur.ppq="1" dur="4" oct="4" pname="b" stem.dir="down" />
+                           <note xml:id="n1vcwqkb" dur="4" dur.ppq="1" oct="4" pname="b" stem.dir="down">
+                              <accid xml:id="aielhrb1" accid="s"/>
+                           </note>
                            <note xml:id="n1kyira7" dur.ppq="1" dur="4" oct="4" pname="a" stem.dir="down" accid.ges="s"/>
                         </layer>
                      </staff>
