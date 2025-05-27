@@ -25,7 +25,7 @@
                <name xml:id="n1c9q7rk">Verovio</name>
                <p xml:id="p1383n04">Transcoded from MusicXML</p>
             </application>
-            <application xml:id="au1z51i2" enddate="2024-07-30T11:25:25" startdate="2024-07-30T11:25:23" version="1.0.14">
+            <application xml:id="au1z51i2" enddate="2025-05-27T23:12:59" startdate="2024-07-30T11:25:23" version="1.2.6">
                <name xml:id="nvt2r4c">mei-friend</name>
                <p xml:id="pwn9u391">First edit by mei-friend 1.0.14, 12 June 2024.</p>
             </application>
@@ -84,7 +84,7 @@
                                  <syl xml:id="s4bwli4" con="s" wordpos="s">Auf</syl>
                               </verse>
                            </note>
-                           <note xml:id="n1x1jqph" dur.ppq="24" dur="4" oct="4" pname="b" stem.dir="down" accid.ges="f">
+                           <note xml:id="n1x1jqph" accid.ges="f" dur="4" dur.ppq="24" oct="4" pname="b" stem.dir="up">
                               <verse xml:id="v11xmuvy" n="1">
                                  <syl xml:id="s15bnvmv" con="s" wordpos="s">dem</syl>
                               </verse>
