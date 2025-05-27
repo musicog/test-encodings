@@ -25,7 +25,7 @@
                <name xml:id="n1c9q7rk">Verovio</name>
                <p xml:id="p1383n04">Transcoded from MusicXML</p>
             </application>
-            <application xml:id="au1z51i2" enddate="2025-05-27T23:14:25" startdate="2024-07-30T11:25:23" version="1.2.5">
+            <application xml:id="au1z51i2" enddate="2025-05-27T23:14:38" startdate="2024-07-30T11:25:23" version="1.2.5">
                <name xml:id="nvt2r4c">mei-friend</name>
                <p xml:id="pwn9u391">First edit by mei-friend 1.0.14, 12 June 2024.</p>
             </application>
@@ -141,18 +141,16 @@
                                  <syl xml:id="s1qf2yti" con="s" wordpos="t">gel</syl>
                               </verse>
                            </note>
-                           <beam xml:id="b1eh4bwx">
-                              <note xml:id="n38tqv2" dur="8" dur.ppq="12" oct="5" pname="d" stem.dir="up">
-                                 <verse xml:id="v1dcjm37" n="1">
-                                    <syl xml:id="s1kixsnk" con="s" wordpos="s">sitz’</syl>
-                                 </verse>
-                              </note>
-                              <note xml:id="nqlka6z" accid.ges="f" dur="8" dur.ppq="12" oct="5" pname="e" stem.dir="up">
-                                 <verse xml:id="vd6x5fz" n="1">
-                                    <syl xml:id="s19glpnu" con="s" wordpos="s">ich</syl>
-                                 </verse>
-                              </note>
-                           </beam>
+                           <note xml:id="n38tqv2" dur="8" dur.ppq="12" oct="5" pname="d" stem.dir="up">
+                              <verse xml:id="v1dcjm37" n="1">
+                                 <syl xml:id="s1kixsnk" con="s" wordpos="s">sitz’</syl>
+                              </verse>
+                           </note>
+                           <note xml:id="nqlka6z" accid.ges="f" dur="8" dur.ppq="12" oct="5" pname="e" stem.dir="up">
+                              <verse xml:id="vd6x5fz" n="1">
+                                 <syl xml:id="s19glpnu" con="s" wordpos="s">ich</syl>
+                              </verse>
+                           </note>
                         </layer>
                      </staff>
                      <staff xml:id="sqr9kkg" n="2">
