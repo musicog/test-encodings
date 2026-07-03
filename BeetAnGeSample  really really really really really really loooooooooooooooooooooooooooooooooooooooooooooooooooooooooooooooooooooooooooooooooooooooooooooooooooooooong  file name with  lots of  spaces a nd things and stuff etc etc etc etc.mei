@@ -25,7 +25,7 @@
                <name xml:id="n1c9q7rk">Verovio</name>
                <p xml:id="p1383n04">Transcoded from MusicXML</p>
             </application>
-            <application xml:id="au1z51i2" enddate="2024-07-30T11:25:25" startdate="2024-07-30T11:25:23" version="1.0.14">
+            <application xml:id="au1z51i2" enddate="2026-07-03T11:30:43" startdate="2024-07-30T11:25:23" version="1.4.1">
                <name xml:id="nvt2r4c">mei-friend</name>
                <p xml:id="pwn9u391">First edit by mei-friend 1.0.14, 12 June 2024.</p>
             </application>
@@ -178,7 +178,7 @@
                         </layer>
                      </staff>
                      <pedal xml:id="pgplzjy" staff="3" tstamp="1.822917" dir="down" place="below" vgrp="950" />
-                     <pedal xml:id="px1r4hw" staff="3" tstamp="2.837500" dir="up" place="below" vgrp="950" />
+                     <pedal xml:id="px1r4hw" dir="up" ho="1.5" place="below" staff="3" tstamp="2.837500" vgrp="950"/>
                   </measure>
                   <measure xml:id="m1rzpjfx" n="3">
                      <staff xml:id="sbvnalf" n="1">
